@@ -11,10 +11,10 @@ const Imagenes = ({ imagen }) => {
       </div>
       <div className="card-body">
         <span className="card-text">
-          {likes} <i class="fas fa-thumbs-up"></i>
+          {likes} <i className="fas fa-thumbs-up"></i>
         </span>
         <span className="card-text">
-          {views} <i class="far fa-eye"></i>
+          {views} <i className="far fa-eye"></i>
         </span>
       </div>
     </div>
